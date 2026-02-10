@@ -7,7 +7,7 @@
 
 ## About
 
-* I am working as a DevOps Engineer
+* I am working as a Site Reliability Engineer
 * I am interested to learn about new technologies
 * I love reading books. Big fan of fiction novels.
 * I am a professional guitar player and a singer.
