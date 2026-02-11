@@ -1,9 +1,13 @@
-## Hi there 👋, this is Syed Ashlaan Ahmed from Luxembourg !!
-#### I am a Developer, Guitar Player and hardcore metal fan!!!
+# Hi there 👋, I'm Ashlaan Ahmed Syed
+
+### System Reliability Engineer | Cloud Architecture | DevOps Automation
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashlaan-ahmed-1b9738169/)
-&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ashlaan.ahmed)&nbsp;   [![Insta](https://img.shields.io/badge/ashlaan47-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ashlaan47/) &nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ashlaan47) ![Profile views](https://gpvc.arturio.dev/ashlaan47)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ashlaan.ahmed)
+[![Instagram](https://img.shields.io/badge/ashlaan47-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ashlaan47/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashlaan47)
+![Profile views](https://gpvc.arturio.dev/ashlaan47)
+
 
 ## About
 
